@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "async": "^3.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "node-xlsx": "^0.15.0",
+    "superagent": "^5.1.0",
+    "superagent-charset": "^1.2.0"
+  }
+}
